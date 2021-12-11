@@ -2,5 +2,5 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "About"
+  - title: "About Me"
     url: /about/
