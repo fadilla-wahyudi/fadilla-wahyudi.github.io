@@ -1,10 +1,16 @@
 ---
 title: "Using pophelper to create \"smoother\" ADMIXTURE plots"
 classes: "wide"
-
+categories:
+ - Tutorial
+tags:
+ - admixture
+ - population structure
+ - tutorial
+ - 1000 Genomes Project
 ---
 
-A couple of years ago, when I started out with bioinformatics, I had to create admixture plots. After generating the ancestry fractions using [ADMIXTURE](https://dalexander.github.io/admixture/download.html), I used [pophelper](https://github.com/royfrancis/pophelper) to create them. This is what my plot looked like (I recreated it using the 1000 Genomes dataset):
+A couple of years ago, when I started out with bioinformatics, I had to create admixture plots. After generating the ancestry fractions using [ADMIXTURE](https://dalexander.github.io/admixture/download.html), I used [pophelper](https://github.com/royfrancis/pophelper) to create them. This is what my plot looked like (I recreated it using the 1000 Genomes Projects dataset):
 
 ![ADMIXTURE plot before](/assets/images/posts/2021-12-13-ADMIX.8.Q-before.png)
 
@@ -14,9 +20,7 @@ And this is what I wanted my plot to look like:
 
 I wanted it to look smoother.
 
-The problem I faced was that I could not reorder the population groups (e.g. LWK, ESN) using `subsetgrp` and sort individuals by their ancestry proportions using `sortind="all"` simultaneously. Here is the solution:
-
-*Note: I believe the author of [pophelper](https://github.com/royfrancis/pophelper) posted about this, but I can't seem to find it. If I do, I will link it here.*
+The problem I faced was that I could not reorder the population groups (e.g. LWK, ESN) using `subsetgrp` and sort individuals by their ancestry proportions using `sortind="all"` simultaneously. Here is the solution[^1].
 
 ## Reading the files and creating population labels
 
@@ -75,3 +79,5 @@ qdata2 <- plotQ(neworder$data$qlist, grplab=neworder$data$grplab[[1]],
 ```
 
 And voilà! A smoother, more satisfying plot.
+
+[^1]: I believe the author of [pophelper](https://github.com/royfrancis/pophelper) posted about this, but I can't seem to find it. If I do, I will mention it on this blog post.
