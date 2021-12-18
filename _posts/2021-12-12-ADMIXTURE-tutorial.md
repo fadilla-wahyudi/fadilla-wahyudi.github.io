@@ -1,22 +1,23 @@
 ---
 title: "Using pophelper to create \"smoother\" ADMIXTURE plots"
+excerpt: "A couple of years ago, when I started out with bioinformatics, I had to create ADMIXTURE plots..."
 classes: "wide"
 categories:
  - Tutorial
 tags:
  - admixture
- - population structure
+ - population genomics
  - tutorial
  - 1000 Genomes Project
 ---
 
-A couple of years ago, when I started out with bioinformatics, I had to create admixture plots. After generating the ancestry fractions using [ADMIXTURE](https://dalexander.github.io/admixture/download.html), I used [pophelper](https://github.com/royfrancis/pophelper) to create them. This is what my plot looked like (I recreated it using the 1000 Genomes Projects dataset):
+A couple of years ago, when I started out with bioinformatics, I had to create ADMIXTURE plots. After generating the ancestry fractions using [ADMIXTURE](https://dalexander.github.io/admixture/download.html), I used [pophelper](https://github.com/royfrancis/pophelper) to create them. This is what my plot looked like (I recreated it using the 1000 Genomes Projects dataset):
 
-![ADMIXTURE plot before](/assets/images/posts/2021-12-13-ADMIX.8.Q-before.png)
+![ADMIXTURE plot before](/assets/images/posts/ADMIXTURE-before.png)
 
 And this is what I wanted my plot to look like:
 
-![ADMIXTURE plot after](/assets/images/posts/2021-12-13-ADMIX.8.Q-after.png)
+![ADMIXTURE plot after](/assets/images/posts/ADMIXTURE-after.png)
 
 I wanted it to look smoother.
 
