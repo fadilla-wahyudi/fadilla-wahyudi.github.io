@@ -2,8 +2,9 @@
 layout: single
 permalink: /about/
 author_profile: true
-classes: wide
 title: "About Me"
+toc: true
+toc_stick: true
 header:
   overlay_image: /assets/images/background-hong-kong.jpg
   overlay_filter: 0.1
@@ -19,7 +20,13 @@ I then pursued a Master of Science (Research) degree, with a specialisation in G
 
 # My work
 
-Here are a list of things that I have put out onto the internet:
-- [*FineMAV* software](https://github.com/fadilla-wahyudi/finemav) — A stand-alone program that implements the Fine-Mapping of Adaptive Variation (*FineMAV*) statistic for detection of positively selected variants. I have created tutorial videos for it [videos [1](https://www.youtube.com/watch?v=thagyAQu57c&ab_channel=FadillaWahyudi), [2](https://www.youtube.com/watch?v=GuvAWRe4g1o&t=3s&ab_channel=FadillaWahyudi) and [3](https://www.youtube.com/watch?v=42fnP6WOzu4&ab_channel=FadillaWahyudi)]
+Here are a list of things that I have put out onto the internet.
+
+## Publications
+
+- **Wahyudi, F.**, Aghakhanian, F., Rahman, S., Teo, Y., Szpak, M., Dhaliwal, J. and Ayub, Q., 2021. [Prioritising positively selected variants in whole-genome sequencing data using *FineMAV*](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04506-9). *BMC Bioinformatics*, 22(1).
+  - A stand-alone program that implements the Fine-Mapping of Adaptive Variation (*FineMAV*) statistic for detection of positively selected variants. It can be found on [GitHub](https://github.com/fadilla-wahyudi/finemav).
+
+
+## Side projects
 - [monash-sciencesymposium.com](http://monash-sciencesymposium.com/) —  A symposium website created for the Monash Science Symposium (MSS).
-- [Monopoly money tracker](https://github.com/fadilla-wahyudi/monopoly-tracker) — A tool used to track players money in the Monopoly Electronic Banking edition. This was my gateway project into the world of coding and Python.

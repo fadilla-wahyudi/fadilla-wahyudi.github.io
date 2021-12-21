@@ -1,14 +1,15 @@
 ---
-title: "Using pophelper to create \"smoother\" ADMIXTURE plots"
+title: "How to use pophelper to create \"smoother\" ADMIXTURE plots"
 excerpt: "A couple of years ago, when I started out with bioinformatics, I had to create ADMIXTURE plots..."
 classes: "wide"
 categories:
  - Tutorial
 tags:
+ - 1000 Genomes Project
  - admixture
  - population genomics
  - tutorial
- - 1000 Genomes Project
+ - R
 ---
 
 A couple of years ago, when I started out with bioinformatics, I had to create ADMIXTURE plots. After generating the ancestry fractions using [ADMIXTURE](https://dalexander.github.io/admixture/download.html), I used [pophelper](https://github.com/royfrancis/pophelper) to create them. This is what my plot looked like (I recreated it using the 1000 Genomes Projects dataset):
