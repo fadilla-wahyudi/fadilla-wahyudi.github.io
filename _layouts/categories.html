@@ -11,7 +11,11 @@ layout: archive
   {% endif %}
 {% endfor %}
 
-<p>My posts can be sorted into two categories: <b>Tutorial</b> and <b>Learning</b> (which is where I document my learning journey).</p>
+<p>My posts can be sorted into two categories:</p>
+  <ol>
+    <li><b>Tutorial</b></li>
+    <li><b>Learning</b> (where I document my learning journey)</li>
+  </ol>
 <ul class="taxonomy__index">
   {% for i in (1..categories_max) reversed %}
     {% for category in site.categories %}
