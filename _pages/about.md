@@ -15,9 +15,9 @@ header:
 
 Hi, my name is Fadilla, and I live in Hong Kong.
 
-I originally had a background in biology, having completed a BSc (Hons) degree in Biomedical Sciences.
+I originally had a background in biology, having completed a Biomedical Sciences degree from the University of Nottingham Malaysia Campus.
 It was after my final year, where I realised that *"hey, I might actually be into this whole coding thing"*.
-I then pursued a Master of Science (Research) degree, specialising in Genomics and Bioinformatics.
+I then pursued a Master of Science (Research) degree from Monash University Malaysia, specialising in Genomics and Bioinformatics.
 
 This brings me to the reason I started this blog. I wanted to document my bioinformatics journey, from my learning progress to the thoughts/experiences I will have along the way.
 
