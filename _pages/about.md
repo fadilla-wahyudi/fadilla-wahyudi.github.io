@@ -27,8 +27,12 @@ Here are a list of things that I have put out onto the internet.
 
 ## Publications
 
-- **Wahyudi, F.**, Aghakhanian, F., Rahman, S., Teo, Y., Szpak, M., Dhaliwal, J. and Ayub, Q., 2021. [Prioritising positively selected variants in whole-genome sequencing data using *FineMAV*](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04506-9). *BMC Bioinformatics*, 22(1).
-  - A stand-alone program that implements the Fine-Mapping of Adaptive Variation (*FineMAV*) statistic for detection of positively selected variants. It can be found on [GitHub](https://github.com/fadilla-wahyudi/finemav).
+**Wahyudi, F.**, Aghakhanian, F., Rahman, S., Teo, Y., Szpak, M., Dhaliwal, J. and Ayub, Q., 2021. [Prioritising positively selected variants in whole-genome sequencing data using *FineMAV*](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04506-9). *BMC Bioinformatics*, 22(1).
+
+- A stand-alone program that implements the Fine-Mapping of Adaptive Variation (*FineMAV*) statistic for detection of positively selected variants.
+- It is on [my GitHub repository](https://github.com/fadilla-wahyudi/finemav).
+
+---
 
 
 ## Side projects
