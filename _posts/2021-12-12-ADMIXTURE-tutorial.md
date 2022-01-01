@@ -1,7 +1,5 @@
 ---
 title: "How to use pophelper to create \"smoother\" ADMIXTURE plots"
-excerpt: "A couple of years ago, when I started out with bioinformatics, I had to create ADMIXTURE plots..."
-classes: "wide"
 categories:
  - Tutorial
 tags:

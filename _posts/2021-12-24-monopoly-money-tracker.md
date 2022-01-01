@@ -1,6 +1,5 @@
 ---
 title: "My first Python project — the Monopoly money tracker"
-excerpt: "So my family owns the Monopoly (Here & Now World Edition) where players use cards..."
 categories:
  - "Learning"
 tags:

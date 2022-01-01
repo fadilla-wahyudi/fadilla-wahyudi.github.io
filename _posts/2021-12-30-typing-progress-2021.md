@@ -1,6 +1,5 @@
 ---
 title: "Typing progress in 2021"
-classes: "wide"
 categories:
  - "Learning"
 ---

@@ -62,7 +62,7 @@ $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 
 $background-color: #fff !default;
-$code-background-color: #fafafa !default;
+$code-background-color: #ece8f9 !default;
 $code-background-color-dark: $light-gray !default;
 $text-color: $dark-gray !default;
 $muted-text-color: mix(#fff, $text-color, 20%) !default;
@@ -145,7 +145,7 @@ $small: 600px !default;
 $medium: 768px !default;
 $medium-wide: 900px !default;
 $large: 1024px !default;
-$x-large: 1280px !default;
+$x-large: 1400px !default;
 $max-width: $x-large !default;
 
 /*
