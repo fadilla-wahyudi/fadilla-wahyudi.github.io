@@ -4,7 +4,7 @@ permalink: /about/
 author_profile: true
 title: "About Me"
 toc: true
-toc_stick: true
+toc_sticky: true
 header:
   overlay_image: /assets/images/background-hong-kong.jpg
   overlay_filter: 0.1
