@@ -5,7 +5,7 @@ toc_sticky: true
 categories:
  - "Learning"
 ---
-I did a course on Skillshare called ["Creative Coding: Animating SVG with Simple CSS Code"](https://www.skillshare.com/classes/Creative-Coding-Animating-SVG-with-Simple-CSS-Code/1735436116/projects). The course is relatively short (28 minutesc ) and covers the basics of animating SVG with CSS. I would say it’s aimed at people who already have a foundational understanding in HTML and CSS and want to level up their web development game.
+I did a course on Skillshare called ["Creative Coding: Animating SVG with Simple CSS Code"](https://www.skillshare.com/classes/Creative-Coding-Animating-SVG-with-Simple-CSS-Code/1735436116/projects). The course is relatively short (28 minutes) and covers the basics of animating SVG with CSS. I would say it’s aimed at people who already have a foundational understanding in HTML and CSS and want to level up their web development game.
 
 To practice this, I created the SVG below using Illustrator and animated it.
 
