@@ -17,8 +17,10 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
   <div class="archive">
+    {% if page.url != "/"  %}
       <h1 id="page-title" class="page__title">{{ page.title }}</h1>
       <h4 class="sort__by">View posts by <a href="{{ site.baseurl }}/categories/">Categories</a>, <a href="{{ site.baseurl }}/tags/">Tags</a> or <a href="{{ site.baseurl }}/posts/">Year</a>.</h4>
+    {% endif %}
     {{ content }}
   </div>
 </div>
