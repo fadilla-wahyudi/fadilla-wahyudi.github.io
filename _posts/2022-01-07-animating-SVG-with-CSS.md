@@ -5,7 +5,7 @@ toc_sticky: true
 categories:
  - "Learning"
 ---
-I did a course on Skillshare called ["Creative Coding: Animating SVG with Simple CSS Code"](https://www.skillshare.com/classes/Creative-Coding-Animating-SVG-with-Simple-CSS-Code/1735436116/projects). The course is relatively short (28 minutes) and covers the basics of animating SVG with CSS. I would say it’s aimed at people who already have a foundational understanding in HTML and CSS and want to level up their web development game.
+I did a course on Skillshare called ["Creative Coding: Animating SVG with Simple CSS Code"](https://www.skillshare.com/classes/Creative-Coding-Animating-SVG-with-Simple-CSS-Code/1735436116/projects). The course is relatively short (28 minutesc ) and covers the basics of animating SVG with CSS. I would say it’s aimed at people who already have a foundational understanding in HTML and CSS and want to level up their web development game.
 
 To practice this, I created the SVG below using Illustrator and animated it.
 
@@ -36,7 +36,7 @@ To practice this, I created the SVG below using Illustrator and animated it.
 
 To do this, I inserted the SVG code into the HTML code.
 
-```html
+{% highlight html linenos %}
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 229.77 229.77" height="200px">
   <defs>
     <style>
@@ -56,7 +56,7 @@ To do this, I inserted the SVG code into the HTML code.
       <path class="cls-4" d="M99.31,104.39c0-4.19,3.74-7.58,8.36-7.58" transform="translate(1.5 1.5)"/>
   </g>
 </svg>
-```
+{% endhighlight %}
 
 Using the web developer inspector tool, I could see that the SVG consists of four components:
 
@@ -65,13 +65,13 @@ Using the web developer inspector tool, I could see that the SVG consists of fou
 3. The black circle  `<circle class="cls-3"...`
 4. The white curved line inside the black circle which represents the speck of light `<path class="cls-4"...`
 
-Because I wanted to move the centre of the eye, which consists of components #3 and #4, I had to group these two components together by adding a `<g>` element.
+Because I wanted to move the centre of the eye, which consists of components #3 and #4, I had to group these two components together by adding a `<g>` in **line 15 and 18** element.
 
 # Editing the CSS code
 
 This is the CSS code I used to animate my SVG. I could add this CSS code on a separate CSS file or within the `<style>` element in the SVG code.
 
-```css
+{% highlight css linenos %}
 .eye-center {
   animation-name: moveEye;
   animation-duration: 3s;
@@ -87,7 +87,7 @@ This is the CSS code I used to animate my SVG. I could add this CSS code on a se
   }
 
 }
-```
+{% endhighlight %}
 
 To define the animation in CSS, we use @keyframes followed by the given name of the animation, which in this case is `@keyframes moveEye`.  The progress of the animation is defined using percentages. For this animation, I wanted to move (i.e. translate) and change the size (i.e. scale) of the centre of the eye. This can be done using the `transform` property.
 
