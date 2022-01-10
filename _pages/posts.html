@@ -3,7 +3,10 @@ layout: archive
 permalink: /posts/
 title: "Posts"
 author_profile: true
-classes: wide
+header:
+  overlay_image: /assets/images/background-indo-trees.jpg
+  overlay_filter: 0.4
+  caption: "Photo by [**Lucija Ros**](https://unsplash.com/photos/123uADXN-JY) on Unsplash"
 ---
 {% for post in site.posts %}
     {% assign currentDate = post.date | date: "%Y" %}
