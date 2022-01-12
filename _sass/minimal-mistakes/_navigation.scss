@@ -200,7 +200,7 @@
       margin-left: 0;
     }
   }
-  
+
   img{
     -webkit-transition: none;
     transition: none;
@@ -511,6 +511,7 @@
   border-radius: $border-radius;
   -webkit-box-shadow: $box-shadow;
   box-shadow: $box-shadow;
+  margin-bottom: 1.5em;
 
   .nav__title {
     color: #fff;
@@ -547,6 +548,7 @@
 
     &:hover {
       color: $text-color;
+      text-decoration: underline;
     }
   }
 
