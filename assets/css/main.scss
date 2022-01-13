@@ -7,7 +7,7 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-// Custom CSS
+// ** CUSTON CSS **
 
 // LINK ANIMATIONS
 
@@ -17,38 +17,25 @@ $link-color-light: #e6f2ff;
 
 .sort__by a, .page__content a:not(.btn, nav a, .header-link, .footnote, .reversefootnote){
   color: $link-color-dark;
-  position: relative;
   text-decoration: none;
-  white-space: nowrap; /* ensures that hyperlink is on one line*/
+  position: relative;
+  background-image: linear-gradient($link-color-light, $link-color-light); // allows for wrapped text because many properties can modify background-image
+  background-position: 0 100%; // first value = horizontal, second value = vertical, positions it to the bottom, allows for bottom-to-up animation
+  background-repeat: no-repeat;
+  background-size: 100% 0; // first value = width, second value = height, hides background
+  transition: background-size 0.25s ease-in-out;
 }
 
+// underline page__content links
 .page__content a:not(.btn, nav a, .header-link, .footnote, .reversefootnote){
-  border-bottom: 0.15em solid $link-color-main;
-  padding-bottom: 0.05em;
-}
-
-// a:after
-.sort__by a:after, .page__content a:not(.btn, nav a, .header-link, .footnote, .reversefootnote):after{
-  content: "";
-  background: $link-color-light;
-  z-index: -1;
-  width: 100%;
-  height: 0;
-  position: absolute;
-  bottom: -1px;
-  left: 0;
-	transition: all .25s ease-in-out;
+  text-decoration: underline $link-color-main solid 0.15em;
+  text-underline-offset: 0.125em;
 }
 
 // a:hover
 .sort__by a:hover, .page__content a:not(.btn, nav a, .header-link, .footnote, .reversefootnote):hover{
   color: $text-color;
-  text-decoration: none;
-}
-
-// a:hover:after
-.sort__by a:hover:after, .page__content a:not(.btn, nav a, .header-link, .footnote, .reversefootnote):hover:after{
-  height: 100%;
+  background-size: 100% 100%; // upon hover, it increases the height from 0 to 100%
 }
 
 // a:active

@@ -65,7 +65,7 @@ Using the web developer inspector tool, I could see that the SVG consists of fou
 3. The black circle  `<circle class="cls-3"...`
 4. The white curved line inside the black circle which represents the speck of light `<path class="cls-4"...`
 
-Because I wanted to move the centre of the eye, which consists of components #3 and #4, I had to group these two components together by adding a `<g>` in **line 15 and 18** element.
+Because I wanted to move the centre of the eye, which consists of components #3 and #4, I had to group these two components together by adding a `<g>` element in **lines 15 and 18**.
 
 # Editing the CSS code
 
