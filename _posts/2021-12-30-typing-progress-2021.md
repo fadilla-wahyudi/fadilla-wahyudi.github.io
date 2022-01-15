@@ -1,7 +1,9 @@
 ---
 title: "Typing progress in 2021"
 categories:
- - "Learning"
+ - Personal
+tags:
+ - Typing
 ---
 Now that 2021 is ending, I wanted to reflect on the only new year’s resolution I stuck to this year, and that is my goal of **improving my typing speed and accuracy**. I noticed that my typing was relatively quick but was pretty sloppy. So I searched online for websites that I could practice my typing on.
 

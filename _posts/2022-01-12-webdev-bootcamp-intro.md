@@ -1,12 +1,10 @@
 ---
 title: "WebDev Bootcamp — Intro"
-classes: "wide"
 categories:
- - "Learning"
+ - WebDev
 tags:
- - "web development"
- - "webdev bootcamp"
- - "freeCodeCamp"
+ - WebDev bootcamp
+ - freeCodeCamp
 ---
 I enrolled in a free Web Development Bootcamp which started on January 10 and will last 6 weeks. It is hosted by [Class Central Cohorts](https://www.classcentral.com/report/introducing-cohorts/), which aims to make online learning a more social experience, and is led by [Jessica Rose](http://jessica.tech/). The course covers HTML, CSS and responsive design.
 

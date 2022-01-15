@@ -4,9 +4,8 @@ categories:
  - Tutorial
 tags:
  - 1000 Genomes Project
- - admixture
- - population genomics
- - tutorial
+ - Admixture
+ - Population genomics
  - R
 ---
 
