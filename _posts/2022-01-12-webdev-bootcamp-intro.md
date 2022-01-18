@@ -59,3 +59,13 @@ To read more about the curriculum, click the links below:
 
 # Thoughts
 I am beyond excited. I'm hoping that doing the Bootcamp with other people will push me to finish it.
+
+{% capture notice-text %}
+**To check out other Bootcamp-related posts, click on the links below:**
+- [Week 1](/webdev/webdev-bootcamp-w1/)
+- [Week 2](/webdev/webdev-bootcamp-w2/)
+{% endcapture %}
+
+<div class="notice--info">
+  {{ notice-text | markdownify }}
+</div>

@@ -15,7 +15,7 @@ $link-color-main: #6690bd;
 $link-color-dark: #386ca3;
 $link-color-light: #e6f2ff;
 
-.sort__by a, .page__content a:not(.btn, nav a, .header-link, .footnote, .reversefootnote){
+.sort__by a, .page__content a:not(.btn, nav a, .header-link, .footnote, .reversefootnote, .notice a, .notice--primary a, .notice--info a, .notice--warning a, .notice--danger a, .notice--sucess a){
   color: $link-color-dark;
   text-decoration: none;
   position: relative;
@@ -27,13 +27,14 @@ $link-color-light: #e6f2ff;
 }
 
 // underline page__content links
-.page__content a:not(.btn, nav a, .header-link, .footnote, .reversefootnote){
+.page__content a:not(.btn, nav a, .header-link, .footnote, .reversefootnote, .notice a, .notice--primary a, .notice--info a, .notice--warning a, .notice--danger a, .notice--sucess a){
   text-decoration: underline $link-color-main solid 0.15em;
+  -webkit-text-decoration-line: underline $link-color-main solid 0.15em;
   text-underline-offset: 0.125em;
 }
 
 // a:hover
-.sort__by a:hover, .page__content a:not(.btn, nav a, .header-link, .footnote, .reversefootnote):hover{
+.sort__by a:hover, .page__content a:not(.btn, nav a, .header-link, .footnote, .reversefootnote, .notice a, .notice--primary a, .notice--info a, .notice--warning a, .notice--danger a, .notice--sucess a):hover{
   color: $text-color;
   background-size: 100% 100%; // upon hover, it increases the height from 0 to 100%
 }
