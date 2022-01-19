@@ -63,7 +63,6 @@ I am beyond excited. I'm hoping that doing the Bootcamp with other people will p
 {% capture notice-text %}
 **To check out other Bootcamp-related posts, click on the links below:**
 - [Week 1](/webdev/webdev-bootcamp-w1/)
-- [Week 2](/webdev/webdev-bootcamp-w2/)
 {% endcapture %}
 
 <div class="notice--info">
