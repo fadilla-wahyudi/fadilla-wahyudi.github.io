@@ -29,7 +29,10 @@ $link-color-light: #e6f2ff;
 // underline page__content links
 .page__content a:not(.btn, nav a, .header-link, .footnote, .reversefootnote, .notice a, .notice--primary a, .notice--info a, .notice--warning a, .notice--danger a, .notice--sucess a){
   text-decoration: underline $link-color-main solid 0.15em;
-  -webkit-text-decoration-line: underline $link-color-main solid 0.15em;
+  -webkit-text-decoration-line: underline;
+  -webkit-text-decoration-color: $link-color-main;
+  -webkit-text-decoration-style: solid;
+  -webkit-text-decoration-thickness: 0.15em;
   text-underline-offset: 0.125em;
 }
 
