@@ -84,7 +84,7 @@ We can check whether we have fulfilled the requirements using their Test Suite (
 
 # Building a photo gallery
 
-This lesson was done in our own time. We learnt about [flexboxes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout) and creating them using display:flex, flex-direction, flex-wrap, justify-content, align-items etc. We also touched briefly on media queries to specify breakpoints.
+This lesson was done in our own time. We learnt about [flexboxes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout) and creating them using `display:flex`, `flex-direction`, `flex-wrap`, `justify-content`, `align-items` etc. We also touched briefly on media queries to specify breakpoints.
 
 <div class="full">
 <p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="NWamQbK" data-user="fadilla-wahyudi" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
