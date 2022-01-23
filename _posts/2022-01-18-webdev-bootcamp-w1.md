@@ -12,6 +12,7 @@ I enrolled in a Web Development Bootcamp and I just finished week 1 of 6.
 {% capture notice-text %}
 **Read more about the Bootcamp here:**
 - [Introduction](/webdev/webdev-bootcamp-intro/)
+- [Week 2](/webdev/webdev-bootcamp-w2/)
 {% endcapture %}
 
 <div class="notice--info">
