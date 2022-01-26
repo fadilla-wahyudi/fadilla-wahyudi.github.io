@@ -11,14 +11,6 @@ layout: archive
   {% endif %}
 {% endfor %}
 
-<p>My posts can be sorted into several categories:</p>
-  <ol>
-    <li><b>Personal</b> (thoughts, goals and personal coding projects)</li>
-    <li><b>Research</b></li>
-    <li><b>Tutorial</b></li>
-    <li><b>WebDev</b> (where I document my web development learning journey)</li>
-  </ol>
-
 <ul class="taxonomy__index">
   {% for i in (1..categories_max) reversed %}
     {% for category in site.categories %}

@@ -2,6 +2,7 @@
 title: "How to use pophelper to create \"smoother\" ADMIXTURE plots"
 categories:
  - Tutorial
+ - Code
 tags:
  - 1000 Genomes Project
  - Admixture

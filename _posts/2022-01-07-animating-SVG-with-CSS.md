@@ -4,6 +4,7 @@ toc: true
 toc_sticky: true
 categories:
  - WebDev
+ - Code
 tags:
  - Graphics design
  - SVG

@@ -1,7 +1,7 @@
 ---
 title: "My first Python project — the Monopoly money tracker"
 categories:
- - Personal
+ - Code
 tags:
  - Python
 ---

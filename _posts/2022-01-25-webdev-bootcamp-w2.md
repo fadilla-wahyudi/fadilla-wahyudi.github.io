@@ -3,6 +3,7 @@ title: "WebDev Bootcamp — Week 2"
 toc: true
 categories:
  - WebDev
+ - Code
 tags:
  - WebDev Bootcamp
  - freeCodeCamp
@@ -12,8 +13,8 @@ I enrolled in a Web Development Bootcamp that lasts for six weeks and I have fin
 
 {% capture notice-text %}
 **Read more about the Bootcamp here:**
-- [Introduction](/webdev/webdev-bootcamp-intro/)
-- [Week 1](/webdev/webdev-bootcamp-w1/)
+- [Introduction](/posts/webdev-bootcamp-intro/)
+- [Week 1](/posts/webdev-bootcamp-w1/)
 {% endcapture %}
 
 <div class="notice--info">
