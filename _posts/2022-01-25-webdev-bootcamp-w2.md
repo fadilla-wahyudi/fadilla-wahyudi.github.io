@@ -15,6 +15,7 @@ I enrolled in a Web Development Bootcamp that lasts for six weeks and I have fin
 **Read more about the Bootcamp here:**
 - [Introduction](/posts/webdev-bootcamp-intro/)
 - [Week 1](/posts/webdev-bootcamp-w1/)
+- [Week 3](/posts/webdev-bootcamp-w3/)
 {% endcapture %}
 
 <div class="notice--info">
