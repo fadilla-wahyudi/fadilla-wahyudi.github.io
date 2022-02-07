@@ -1,5 +1,6 @@
 ---
 title: "WebDev Bootcamp — Week 3"
+last_modified_at: 2022-02-07
 toc: true
 categories:
  - WebDev
@@ -15,7 +16,8 @@ I finished week 3 of the six-week Web Development Bootcamp.
 **Read more about the Bootcamp here:**
 - [Introduction](/posts/webdev-bootcamp-intro/)
 - [Week 1](/posts/webdev-bootcamp-w1/)
-- [Week 2](/posts/webdev-bootcamp-w2)
+- [Week 2](/posts/webdev-bootcamp-w2/)
+- [Week 4](/posts/webdev-bootcamp-w4/)
 {% endcapture %}
 
 <div class="notice--info">

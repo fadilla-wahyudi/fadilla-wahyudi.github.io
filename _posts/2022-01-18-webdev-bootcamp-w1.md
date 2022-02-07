@@ -1,5 +1,6 @@
 ---
 title: "WebDev Bootcamp — Week 1"
+last_modified_at: 2022-02-07
 toc: true
 categories:
  - WebDev
@@ -15,6 +16,7 @@ I enrolled in a Web Development Bootcamp and I just finished week 1 of 6.
 - [Introduction](/posts/webdev-bootcamp-intro/)
 - [Week 2](/posts/webdev-bootcamp-w2/)
 - [Week 3](/posts/webdev-bootcamp-w3/)
+- [Week 4](/posts/webdev-bootcamp-w4/)
 {% endcapture %}
 
 <div class="notice--info">

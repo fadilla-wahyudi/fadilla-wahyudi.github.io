@@ -1,5 +1,6 @@
 ---
 title: "WebDev Bootcamp — Intro"
+last_modified_at: 2022-02-07
 categories:
  - WebDev
  - Code
@@ -40,6 +41,8 @@ The course consists of several components:
 - **Discussion forums** where we can ask for help and talk to the other thousands of people that have enrolled in the course.
 - **Guest speaker livestreams** where the speaker will talk about their experiences.
 
+The Web Development Bootcamp runs alongside the JavaScript Bootcamp, which is led by [Ramón Huidobro](https://ramonh.dev/). So both Jessica and Ramón host the Q&A sessions and guest speaker livestreams.
+
 Here is the 6-week course outline:
 
 Week | Description
@@ -66,6 +69,7 @@ I am beyond excited. I'm hoping that doing the Bootcamp with other people will p
 - [Week 1](/posts/webdev-bootcamp-w1/)
 - [Week 2](/posts/webdev-bootcamp-w2/)
 - [Week 3](/posts/webdev-bootcamp-w3/)
+- [Week 4](/posts/webdev-bootcamp-w4/)
 {% endcapture %}
 
 <div class="notice--info">

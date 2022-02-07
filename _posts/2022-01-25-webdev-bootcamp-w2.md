@@ -1,5 +1,6 @@
 ---
 title: "WebDev Bootcamp — Week 2"
+last_modified_at: 2022-02-07
 toc: true
 categories:
  - WebDev
@@ -16,6 +17,7 @@ I enrolled in a Web Development Bootcamp that lasts for six weeks and I have fin
 - [Introduction](/posts/webdev-bootcamp-intro/)
 - [Week 1](/posts/webdev-bootcamp-w1/)
 - [Week 3](/posts/webdev-bootcamp-w3/)
+- [Week 4](/posts/webdev-bootcamp-w4/)
 {% endcapture %}
 
 <div class="notice--info">
