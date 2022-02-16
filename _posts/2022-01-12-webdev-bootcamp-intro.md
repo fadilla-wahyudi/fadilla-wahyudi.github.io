@@ -70,6 +70,7 @@ I am beyond excited. I'm hoping that doing the Bootcamp with other people will p
 - [Week 2](/posts/webdev-bootcamp-w2/)
 - [Week 3](/posts/webdev-bootcamp-w3/)
 - [Week 4](/posts/webdev-bootcamp-w4/)
+- [Week 5](/posts/webdev-bootcamp-w5/)
 {% endcapture %}
 
 <div class="notice--info">
