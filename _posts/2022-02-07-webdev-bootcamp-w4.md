@@ -29,11 +29,11 @@ I finished week 4 of the six-week Web Development Bootcamp. Week 4 was about CSS
 
 Date | Description | Link
 -----|--------------|----
-Jan 31 (Mon)| Learn More About CSS Pseudo Selectors By Building A Balance Sheet | [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet)
-Feb 1 (Tue)| Learn Intermediate CSS by Building a Picasso Painting | [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-intermediate-css-by-building-a-picasso-painting)
+Jan 31 (Mon) | Learn More About CSS Pseudo Selectors By Building A Balance Sheet | [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet)
+Feb 1 (Tue) | Learn Intermediate CSS by Building a Picasso Painting | [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-intermediate-css-by-building-a-picasso-painting)
 N/A | Learn Responsive Web Design by Building a Piano | [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-responsive-web-design-by-building-a-piano)
 Feb 2 (Wed) | Project: Build a Technical Documentation Page Project | [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#build-a-technical-documentation-page-project)
-Feb 4 (Fri) | Guest Session: Everyone matters - An Inclusive Approach to Design, Development and Testing | [YouTube](https://www.youtube.com/watch?v=9ATsBo74wsk&ab_channel=ClassCentral)
+Feb 4 (Fri) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Guest Session: Everyone matters - An Inclusive Approach to Design, Development and Testing | [YouTube](https://www.youtube.com/watch?v=9ATsBo74wsk&ab_channel=ClassCentral)
 Feb 5 (Sat) | Office Hours livestream for Q&A | [YouTube](https://www.youtube.com/watch?v=WcuJd0G-Srk)
 
 <br>

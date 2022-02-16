@@ -31,7 +31,7 @@ Date | Description | Link
 -------------------------------------|-------------|----
 Feb 7 (Mon)| Learn CSS Variables by Building a City Skyline | [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-variables-by-building-a-city-skyline)
 Feb 8 (Tue)| Learn CSS Grid by Building a Magazine | [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-grid-by-building-a-magazine)
-Feb 8 (Tue) | Guest Session: You Really Don't Need All That JavaScript, I Promise | [YouTube](https://www.youtube.com/watch?v=0t7UJnAA8zY&ab_channel=ClassCentral)
+Feb 8 (Tue) &nbsp; &nbsp; &nbsp; &nbsp;| Guest Session: You Really Don't Need All That JavaScript, I Promise | [YouTube](https://www.youtube.com/watch?v=0t7UJnAA8zY&ab_channel=ClassCentral)
 Feb 9 (Wed) | Project: Build a Product Landing Page Project | [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#build-a-product-landing-page-project)
 Feb 10 (Thu) | Guest Session: How to Read Code? | [YouTube](https://www.youtube.com/watch?v=xZZ74d8XUl0&ab_channel=ClassCentral)
 
