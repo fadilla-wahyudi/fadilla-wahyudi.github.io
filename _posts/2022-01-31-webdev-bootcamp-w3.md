@@ -1,6 +1,6 @@
 ---
 title: "WebDev Bootcamp — Week 3"
-last_modified_at: 2022-02-07
+last_modified_at: 2022-02-16
 toc: true
 categories:
  - WebDev
@@ -10,7 +10,7 @@ tags:
  - freeCodeCamp
 ---
 
-I finished week 3 of the six-week Web Development Bootcamp.
+I finished week 3 of the six-week Web Development Bootcamp. This week was about typography, accessibility and creating navigation menu with anchor links.
 
 {% capture notice-text %}
 **Read more about the Bootcamp here:**
@@ -18,6 +18,7 @@ I finished week 3 of the six-week Web Development Bootcamp.
 - [Week 1](/posts/webdev-bootcamp-w1/)
 - [Week 2](/posts/webdev-bootcamp-w2/)
 - [Week 4](/posts/webdev-bootcamp-w4/)
+- [Week 5](/posts/webdev-bootcamp-w5/)
 {% endcapture %}
 
 <div class="notice--info">

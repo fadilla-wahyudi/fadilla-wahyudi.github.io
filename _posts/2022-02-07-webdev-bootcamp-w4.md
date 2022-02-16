@@ -1,6 +1,6 @@
 ---
 title: "WebDev Bootcamp — Week 4"
-last_modified_at: 2022-02-07
+last_modified_at: 2022-02-16
 toc: true
 categories:
  - WebDev
@@ -18,6 +18,7 @@ I finished week 4 of the six-week Web Development Bootcamp. Week 4 was about CSS
 - [Week 1](/posts/webdev-bootcamp-w1/)
 - [Week 2](/posts/webdev-bootcamp-w2/)
 - [Week 3](/posts/webdev-bootcamp-w3/)
+- [Week 5](/posts/webdev-bootcamp-w5/)
 {% endcapture %}
 
 <div class="notice--info">
@@ -80,7 +81,7 @@ This lesson was about using media queries for achieve responsive design. The siz
 <br>
 
 # Project: Building a technical documentation page
-This project was about creating a technical documentation page and I did one on Python pandas. There were 15 user stories that the page needed to fulfill, including creating a navigation bar and making it responsive.
+This project was about creating a technical documentation page and I did one on Python pandas. There were 15 user stories that the page needed to fulfill, including creating a navigation bar and making it responsive. To spice up the navigation menu for the mobile version, I sprinkled in a little bit of JavaScript. Not gonna lie, I was racking my brain trying to figure that out.
 
 <div class="full">
   <p class="codepen" data-height="600" data-default-tab="result" data-slug-hash="mdqPKYr" data-user="fadilla-wahyudi" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">

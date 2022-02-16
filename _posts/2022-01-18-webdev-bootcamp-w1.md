@@ -1,6 +1,6 @@
 ---
 title: "WebDev Bootcamp — Week 1"
-last_modified_at: 2022-02-07
+last_modified_at: 2022-02-16
 toc: true
 categories:
  - WebDev
@@ -9,7 +9,7 @@ tags:
  - WebDev Bootcamp
  - freeCodeCamp
 ---
-I enrolled in a Web Development Bootcamp and I just finished week 1 of 6.
+I enrolled in a Web Development Bootcamp, and I just finished week 1 of 6. We learnt basic HTML elements and how to modify the appearance of an HTML file using CSS.
 
 {% capture notice-text %}
 **Read more about the Bootcamp here:**
@@ -17,6 +17,7 @@ I enrolled in a Web Development Bootcamp and I just finished week 1 of 6.
 - [Week 2](/posts/webdev-bootcamp-w2/)
 - [Week 3](/posts/webdev-bootcamp-w3/)
 - [Week 4](/posts/webdev-bootcamp-w4/)
+- [Week 5](/posts/webdev-bootcamp-w5/)
 {% endcapture %}
 
 <div class="notice--info">
