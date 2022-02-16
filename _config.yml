@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Fadilla Wahyudi"
 description              : "A place where I document my journey as a bioinformatician and regular human."
-url                      : "https://fadillawahyudi.com/"
+url                      : "https://fadillawahyudi.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : fadilla-wahyudi/fadilla-wahyudi.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
