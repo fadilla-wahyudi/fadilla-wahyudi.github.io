@@ -1,5 +1,6 @@
 ---
 title: "My first Python project — the Monopoly money tracker"
+last_modified_at: 2022-02-27
 categories:
  - Code
 tags:
@@ -11,14 +12,18 @@ So my family owns the **Monopoly (Here & Now World Edition)** where players use 
 
 Unfortunately for us, our card reader stopped working. When I started learning Python, I thought it would be interesting to create a script that can keep track of everyone’s money. Suffice to say, it did its job, but it was primitive. I revisited the script after I was done with my Master’s and gave it a little glow up.
 
-Here's the updated version:
+Here's the updated version[^1]:
 
 *Click on the green button below to run the script.*
 
 <iframe alt="Monopoly money tracker v2" frameborder="0" width="100%" height="500px" src="https://replit.com/@fadilla-wahyudi/MonopolyMoneyTracker?embed=true"></iframe>
+
+
 
 ## Here’s the first version for comparison
 
 The first version was... rough, to say the least. When I first created it, I didn’t know the concept of dictionaries or functions. This meant there was an awful lot of copying and pasting, which made the script unnecessarily long and repetitive. Looking at it makes me chuckle and cringe simultaneously.
 
 <iframe alt="Monopoly money tracker v1" frameborder="0" width="100%" height="500px" src="https://replit.com/@fadilla-wahyudi/v1MonopolyMoneyTracker?embed=true"></iframe>
+
+[^1]: *(27-02-2022):* My Dad suggested I created shortcuts for 1,000 (K) and 1,000,000 (M) so that we don't need to type out all the zeros. I've updated the script so that k/K and m/M is used instead.
