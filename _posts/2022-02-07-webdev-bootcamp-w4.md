@@ -1,6 +1,6 @@
 ---
 title: "WebDev Bootcamp — Week 4"
-last_modified_at: 2022-02-16
+last_modified_at: 2022-02-27
 toc: true
 categories:
  - WebDev
@@ -10,7 +10,7 @@ tags:
  - freeCodeCamp
 ---
 
-I finished week 4 of the six-week Web Development Bootcamp. Week 4 was about CSS selectors, responsive design and web accessibility.
+I finished week 4 of the six-week Web Development Bootcamp. Week 4 was about CSS selectors, responsive design and web accessibility. For our guest session, we had Parham Doustdar come and speak to us about how we can make the internet more inclusive.
 
 {% capture notice-text %}
 **Read more about the Bootcamp here:**
@@ -19,6 +19,7 @@ I finished week 4 of the six-week Web Development Bootcamp. Week 4 was about CSS
 - [Week 2](/posts/webdev-bootcamp-w2/)
 - [Week 3](/posts/webdev-bootcamp-w3/)
 - [Week 5](/posts/webdev-bootcamp-w5/)
+- [Week 6](/posts/webdev-bootcamp-w6/)
 {% endcapture %}
 
 <div class="notice--info">
@@ -39,13 +40,13 @@ Feb 5 (Sat) | Office Hours livestream for Q&A | [YouTube](https://www.youtube.co
 <br>
 
 # Building a balance sheet
-We learnt more about [pseudo selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) like `:nth-of-type`, `:last-child`, `:not` and `:focus`, as well as [attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors), [child combinators](https://developer.mozilla.org/en-US/docs/Web/CSS/Child_combinator), [general sibling combinators](https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_combinator) and [adjacent sibling combinator](https://developer.mozilla.org/en-US/docs/Web/CSS/Adjacent_sibling_combinator).
+We learnt about how to create tables using HTML and more about [pseudo selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) like `:nth-of-type` and `:last-of-type`, as well as [attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors), [child combinators](https://developer.mozilla.org/en-US/docs/Web/CSS/Child_combinator), [general sibling combinators](https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_combinator) and [adjacent sibling combinator](https://developer.mozilla.org/en-US/docs/Web/CSS/Adjacent_sibling_combinator).
 
 <div class="full">
-  <p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="GRORVMr" data-user="fadilla-wahyudi" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-    <span>See the Pen <a href="https://codepen.io/fadilla-wahyudi/pen/GRORVMr">
-    Balance Sheet (freeCodeCamp)</a> by fadilla-wahyudi (<a href="https://codepen.io/fadilla-wahyudi">@fadilla-wahyudi</a>)
-    on <a href="https://codepen.io">CodePen</a>.</span>
+  <p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="wvPjKQW" data-user="fadilla-wahyudi" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/fadilla-wahyudi/pen/wvPjKQW">
+  Balance Sheet #2 (freeCodeCamp)</a> by fadilla-wahyudi (<a href="https://codepen.io/fadilla-wahyudi">@fadilla-wahyudi</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
   </p>
   <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: "WebDev Bootcamp — Week 5"
-last_modified_at: 2022-02-16
+last_modified_at: 2022-02-27
 toc: true
 categories:
  - WebDev
@@ -10,7 +10,7 @@ tags:
  - freeCodeCamp
 ---
 
-I finished week 5 of the Web Development Bootcamp, which covered concepts like flexboxes, grids, variables and media queries.  
+I finished week 5 of the Web Development Bootcamp, which covered concepts like flexboxes, grids, variables and media queries. We had two guest speakers this week: Stuart Langridge, who spoke about JavaScript usage, and Felienne Hermans, who developed a gradual programming language.
 
 {% capture notice-text %}
 **Read more about the Bootcamp here:**
@@ -19,6 +19,7 @@ I finished week 5 of the Web Development Bootcamp, which covered concepts like f
 - [Week 2](/posts/webdev-bootcamp-w2/)
 - [Week 3](/posts/webdev-bootcamp-w3/)
 - [Week 4](/posts/webdev-bootcamp-w4/)
+- [Week 6](/posts/webdev-bootcamp-w6/)
 {% endcapture %}
 
 <div class="notice--info">

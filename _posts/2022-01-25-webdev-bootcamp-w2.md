@@ -1,6 +1,6 @@
 ---
 title: "WebDev Bootcamp — Week 2"
-last_modified_at: 2022-02-16
+last_modified_at: 2022-02-27
 toc: true
 categories:
  - WebDev
@@ -10,7 +10,7 @@ tags:
  - freeCodeCamp
 ---
 
-I enrolled in a Web Development Bootcamp that lasts for six weeks and I have finished week 2. The concepts we learned this week include building forms, the CSS box model, using flexboxes and Git. This week was also the first time we had to create our own little project.
+I enrolled in a Web Development Bootcamp that lasts for six weeks and I have finished week 2. The concepts we learned this week include building forms, the CSS box model, using flexboxes and Git. This week, we were joined by Rizèl Scarlett, who spoke about GitHub.
 
 {% capture notice-text %}
 **Read more about the Bootcamp here:**
@@ -19,6 +19,7 @@ I enrolled in a Web Development Bootcamp that lasts for six weeks and I have fin
 - [Week 3](/posts/webdev-bootcamp-w3/)
 - [Week 4](/posts/webdev-bootcamp-w4/)
 - [Week 5](/posts/webdev-bootcamp-w5/)
+- [Week 6](/posts/webdev-bootcamp-w6/)
 {% endcapture %}
 
 <div class="notice--info">
