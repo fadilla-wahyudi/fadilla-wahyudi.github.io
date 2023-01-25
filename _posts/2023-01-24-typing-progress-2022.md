@@ -6,7 +6,7 @@ categories:
 tags:
  - Typing
 ---
-I wrote a post last year [about my typing progress](/posts/-typing-progress-2021/) post last year about my typing progress and I wanted to see if I can continue improving my typing speed and accuracy. I used the same method that I did last year, which was using a combination of [TypeRacer](https://play.typeracer.com/) and [Monkeytype](https://monkeytype.com/) to practice typing.
+I wrote a post last year [about my typing progress](/posts/-typing-progress-2021/) and I wanted to see if I can continue improving my typing speed and accuracy. I used the same method that I did last year, which was using a combination of [TypeRacer](https://play.typeracer.com/) and [Monkeytype](https://monkeytype.com/) to practice typing.
 
 ## Statistics
 Below are the stats for my typing progress this year on TypeRacer:
