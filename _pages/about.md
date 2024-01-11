@@ -36,4 +36,4 @@ Here are a list of things that I have put out onto the internet.
 
 
 ## Side projects
-- [monash-sciencesymposium.com](http://monash-sciencesymposium.com/) —  A symposium website created for the Monash Science Symposium (MSS).
+- [Monash Science Symposium website](https://monash-sciencesymposium.github.io/zeppelin/) —  A symposium website created for the Monash Science Symposium (MSS).
