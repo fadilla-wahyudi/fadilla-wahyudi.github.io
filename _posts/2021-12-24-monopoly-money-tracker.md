@@ -1,6 +1,6 @@
 ---
 title: "My first Python project — the Monopoly money tracker"
-last_modified_at: 2022-02-27
+last_modified_at: 2025-11-05
 categories:
  - Code
 tags:
@@ -14,16 +14,14 @@ Unfortunately for us, our card reader stopped working. When I started learning P
 
 Here's the updated version[^1]:
 
-*Click on the green button below to run the script.*
+*Click the play button to run the script*
 
-<iframe alt="Monopoly money tracker v2" frameborder="0" width="100%" height="500px" src="https://replit.com/@fadilla-wahyudi/MonopolyMoneyTracker?embed=true"></iframe>
+<iframe src="https://trinket.io/embed/python/39cbd4c34c41" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 
-
-## Here’s the first version for comparison
+## The first version
 
 The first version was... rough, to say the least. When I first created it, I didn’t know the concept of dictionaries or functions. This meant there was an awful lot of copying and pasting, which made the script unnecessarily long and repetitive. Looking at it makes me chuckle and cringe simultaneously.
 
-<iframe alt="Monopoly money tracker v1" frameborder="0" width="100%" height="500px" src="https://replit.com/@fadilla-wahyudi/v1MonopolyMoneyTracker?embed=true"></iframe>
 
 [^1]: *(27-02-2022):* My Dad suggested I created shortcuts for 1,000 (K) and 1,000,000 (M) so that we don't need to type out all the zeros. I've updated the script so that k/K and m/M is used instead.
